@@ -36,4 +36,4 @@ twoway (scatter price lotsize) (lfit price lotsize), by(bedrooms, total)
 net search shp2dta
 ssc instal spmap
 ssc instal shp2dta
-* Рисование карт *
+
