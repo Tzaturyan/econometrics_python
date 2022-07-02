@@ -2,3 +2,4 @@
 Basic Data processing commands
 # Part 2)  Image of data in the form of a map
 # Part 3) Pseudorandom numbers, bootstrap
+# Part 4) Estimation of linear regression models
